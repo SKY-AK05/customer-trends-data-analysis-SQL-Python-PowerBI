@@ -15,3 +15,27 @@ This project is perfect for:
 📊 Data Analyst aspirants who want to build a strong Portfolio Project for interviews and LinkedIn
 📚 Anyone learning Python, SQL, and Power BI
 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
+
+
+📌 Project Overview
+The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+
+✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+
+✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+
+✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+
+✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+
+Project Workflow
+
+<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/d35d7fc8-5a0e-4a18-8dc8-da2b3eeba5a1" />
+
+
+
+
+📊 Power BI Dashboard Preview
+
+This section highlights the interactive dashboard developed in Power BI to visualize customer behavior insights.
+The dashboard enables stakeholders to quickly analyze sales performance, customer segments, and purchasing trends through dynamic visuals and KPI indicators.
