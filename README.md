@@ -39,3 +39,6 @@ Project Workflow
 
 This section highlights the interactive dashboard developed in Power BI to visualize customer behavior insights.
 The dashboard enables stakeholders to quickly analyze sales performance, customer segments, and purchasing trends through dynamic visuals and KPI indicators.
+
+<img width="1161" height="652" alt="image" src="https://github.com/user-attachments/assets/d2e71a3d-d128-4f45-bf8d-83a68a94f952" />
+
